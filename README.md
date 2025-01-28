@@ -22,7 +22,7 @@
 -   🌱 Always learning and exploring new technologies.
 -   💻 Enjoy contributing to open-source and personal projects.
 -   🎯 Striving to build innovative and impactful applications.
--   📫 How to reach me: <a href="mailto:your-email@example.com">your-email@example.com</a>
+-   📫 How to reach me: <a href="mailto:hasithasawbhagya@gmail.com">hasithasawbhagya@gmail.com</a>
 
 ---
 
