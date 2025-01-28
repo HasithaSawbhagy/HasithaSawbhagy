@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hasitha+Saubhagya;Software+Engineer+%7C+Developer" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasitha+Saubhagya;Software+Engineer+%7C+Developer" alt="Animated Name" />
 </p>
 
 <p align="center">
@@ -56,15 +56,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HasithaSawbhagy&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithaSawbhagy&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&locale=en&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaSawbhagy&layout=compact&locale=en&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -72,14 +72,14 @@
 ## ✍️ Recent Blog Posts
 
 <!-- blog starts -->
-  <a href="https://your-blog-post-1-link.com" target="_blank">
+  <!-- <a href="https://your-blog-post-1-link.com" target="_blank">
   Your Blog Post Title 1
   </a>
 <br>
  <a href="https://your-blog-post-2-link.com" target="_blank">
   Your Blog Post Title 2
   </a>
-<br>
+<br> -->
 <!-- blog ends -->
 
 ---
