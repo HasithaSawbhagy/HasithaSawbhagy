@@ -68,7 +68,7 @@
 
 ---
 
-## ✍️ Recent Blog Posts
+<!-- ## ✍️ Recent Blog Posts -->
 
 <!-- blog starts -->
   <!-- <a href="https://your-blog-post-1-link.com" target="_blank">
