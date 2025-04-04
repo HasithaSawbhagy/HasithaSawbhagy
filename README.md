@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=23&pause=1000&color=00F7FF¢er=true&vCenter=true&multiline=true&width=950&height=50&lines=Hi+,+I'm+Nithya+Adhikari+|+Software+Engineer" alt="Animated Introduction - Press Start 2P"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=21&pause=1000&color=00F7FF¢er=true&vCenter=true&multiline=true&width=950&height=50&lines=Hi+,+I'm+Nithya+Adhikari+|+Software+Engineer" alt="Animated Introduction - Press Start 2P"></a>
 </p>
 
 <p align="center">
