@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF¢er=true&vCenter=true&multiline=true&width=550&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Nithya+Adhikari;Software+Engineer;Crafting+Code+%26+Building+Solutions" alt="Animated Introduction"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF¢er=true&vCenter=true&width=550&lines=%3E+Nithya+Adhikari+%7C+Software+Engineer+%3C;%3E+Passionate+Developer+%26+Tech+Enthusiast+%3C" alt="Animated Introduction - Flair"></a>
 </p>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/nithya-adhikari-08b963231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
     <a href="mailto:nithyakadhikari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"></a>
