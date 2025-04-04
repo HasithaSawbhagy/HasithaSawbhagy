@@ -2,8 +2,8 @@
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Animated Coding Banner" width="100%"/>
 </p>
 
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00F7FF¢er=true&vCenter=true&multiline=true&width=650&height=130&lines=Hi+,+I'm+Nithya+Adhikari+|+Software+Engineer" alt="Animated Introduction - Press Start 2P"></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=00F7FF¢er=true&vCenter=true&multiline=true&width=850&height=130&lines=Hi+,+I'm+Nithya+Adhikari+|+Software+Engineer" alt="Animated Introduction - Press Start 2P"></a>
 </p>
 
 <p align="center">
