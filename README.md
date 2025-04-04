@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=00D1FF&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Nithya+Adhikari;Software+Engineer+%7C+Developer&center=true&vCenter=true&height=45" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FF00E4&background=FF00E400&width=530&lines=Hi+%F0%9F%91%8B%2C+I'm+Nithya+Adhikari;Software+Engineer+%7C+Developer&center=true&vCenter=true&repeat=true" alt="Animated Name" />
 </p>
 
 <p align="center">
