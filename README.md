@@ -19,11 +19,10 @@
 
 I'm a passionate Software Engineer based in Sri Lanka. I thrive on turning complex problems into elegant software solutions. Technology is not just my career, it's my playground!
 
-- 🔭 I’m currently working on **[Mention a specific project or area, e.g., a cool .NET API, a React Native app, optimizing database queries]**
-- 🌱 I’m currently learning **[Mention a new technology/skill, e.g., Docker, Kubernetes, Advanced React Patterns, Cloud Architecture on AWS/Azure]**
-- 👯 I’m looking to collaborate on **[Mention types of projects, e.g., open-source .NET projects, innovative web applications]** (Optional)
-- 🤔 I’m looking for help with **[Mention something you're stuck on or want advice about]** (Optional)
-- 💬 Ask me about **[.NET, Java, React, SQL/NoSQL Databases, Software Design Patterns]**
+-   🎓 Passionate about software development and technology.
+-   🌱 Always learning and exploring new technologies.
+-   💻 Enjoy contributing to open-source and personal projects.
+-   🎯 Strive to build innovative and impactful applications.
 - 📫 How to reach me: [nithyakadhikari@gmail.com](mailto:nithyakadhikari@gmail.com)
 
 ---
