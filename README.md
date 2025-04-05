@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/l4KhSznGZQd24N84g/giphy.gif" alt="Abstract Blue Tech Grid Animation" width="100%"/>
+    <img src="https://media.giphy.com/media/hs7SqyavWwKRR67KkG/giphy.gif" alt="Abstract Hexagonal Grid Animation" width="100%"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=530&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasitha+Saubhagya;Software+Engineer+%7C+Developer¢er=true" alt="Animated Name" />
