@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/lKehR2Ed5PasCwY6v4/giphy.gif" alt="Network Connection Visualization" width="100%"/>
+    <img src="https://giphy.com/gifs/animation-tech-xTiTnxpQ3ghPiB2Hp6" alt="Animated Profile Banner" width="100%"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=530&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasitha+Saubhagya;Software+Engineer+%7C+Developer¢er=true" alt="Animated Name" />
 </p>
