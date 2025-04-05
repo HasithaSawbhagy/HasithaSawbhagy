@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/l0HU7JIWcm8WrM2O4/giphy.gif" alt="Neural Network" width="100%"/>
+    <img src="https://tenor.com/view/world-connected-planet-rotation-galaxy-gif-17648343" alt="Neural Network" width="100%"/>
 </p>
 
 <p align="center">
