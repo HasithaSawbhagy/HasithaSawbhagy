@@ -55,15 +55,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasithaSawbhagy&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithaSawbhagy&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaSawbhagy&layout=compact&locale=en&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasithaSawbhagy&show_icons=true&theme=tokyonight&locale=en&hide_border=true&count_private=true" alt="Hasitha Saubhagya's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasithaSawbhagy&theme=tokyonight&hide_border=true&locale=en" alt="Hasitha Saubhagya's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaSawbhagy&layout=compact&locale=en&hide_border=true&theme=tokyonight&langs_count=8" alt="Hasitha Saubhagya's Top Languages" />
 </p>
 
 ---
