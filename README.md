@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://giphy.com/gifs/animation-tech-xTiTnxpQ3ghPiB2Hp6" alt="Animated Profile Banner" width="100%"/>
+    <img src="https://media.giphy.com/media/l0HU7JIWcm8WrM2O4/giphy.gif" alt="Neural Network" width="100%"/>
 </p>
 
 <p align="center">
