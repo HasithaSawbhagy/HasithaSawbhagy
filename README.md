@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=790b7611utqabn7lj0t4euo6g41yz1mni28cd0mhelbw1upn&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated Profile Banner" width="100%"/>
+    <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Digital Code Rain Animation" width="100%"/>
 </p>
 
 <p align="center">
