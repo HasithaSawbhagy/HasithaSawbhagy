@@ -80,7 +80,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="[https://ghchart.rshah.org/00F7FF/HasithaSawbhagy](https://raw.githubusercontent.com/HasithaSawbhagy/HasithaSawbhagy/output/github-contribution-grid-snake-dark.svg)" alt="GitHub contribution activity" width="90%"/>
+<img src="https://raw.githubusercontent.com/HasithaSawbhagy/HasithaSawbhagy/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity" width="90%"/>
 </p>
 
 ---
